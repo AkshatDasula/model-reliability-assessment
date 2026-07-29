@@ -1,4 +1,4 @@
-# Model Reliability Assessment
+# Multimodal Model Reliability Assessment
 
 A multimodal framework for **post-deployment machine learning model reliability assessment**. The tool is model-agnostic, upload a deployed model with its baseline data, then upload production runs to diagnose why the model may be degrading. Results across five complementary analyses are summarized into a single **Fishbone (Ishikawa) diagram** and made queryable by a locally-served LLM.
 
